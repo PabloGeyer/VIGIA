@@ -31,9 +31,6 @@ Existe algo parecido (Healthchecks.io), pero Vigía está pensado para automatiz
 3. **Sistema de alertas** (Telegram, mail, WhatsApp).
 4. **Panel web** con el estado de todo.
 
-## Estado
-
-🚧 En etapa inicial. Proyecto desarrollado por un estudiante de Ingeniería en Sistemas de Información, con buenas prácticas pero arrancando simple.
 
 ## Licencia
 
